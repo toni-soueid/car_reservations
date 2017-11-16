@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_snc_car_reservat_car_reservation" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_snc_car_reservat_car_reservation" element="NULL" name="x_snc_car_reservat_car_reservation" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b951766fdb3103009f055845dc96195d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-20 11:57:17</sys_created_on>
+            <sys_id>3151766fdb3103009f055845dc96195e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-20 11:57:17</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_end_time</element>
+            <list_id display_value="x_snc_car_reservat_car_reservation" element="NULL" name="x_snc_car_reservat_car_reservation" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b951766fdb3103009f055845dc96195d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-20 11:57:17</sys_created_on>
+            <sys_id>b151766fdb3103009f055845dc96195e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-20 11:57:17</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_requested_for</element>
+            <list_id display_value="x_snc_car_reservat_car_reservation" element="NULL" name="x_snc_car_reservat_car_reservation" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b951766fdb3103009f055845dc96195d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-20 11:57:17</sys_created_on>
+            <sys_id>3551766fdb3103009f055845dc96195e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-20 11:57:17</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_start_time</element>
+            <list_id display_value="x_snc_car_reservat_car_reservation" element="NULL" name="x_snc_car_reservat_car_reservation" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">b951766fdb3103009f055845dc96195d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-20 11:57:17</sys_created_on>
+            <sys_id>b551766fdb3103009f055845dc96195e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-20 11:57:17</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_snc_car_reservat_car_reservation</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-20 11:57:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b951766fdb3103009f055845dc96195d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_car_reservat_car_reservation</sys_name>
+            <sys_package display_value="Car Reservations" source="x_snc_car_reservat">92b03a2fdb3103009f055845dc961968</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Car Reservations">92b03a2fdb3103009f055845dc961968</sys_scope>
+            <sys_update_name>sys_ui_list_x_snc_car_reservat_car_reservation_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-20 11:57:17</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

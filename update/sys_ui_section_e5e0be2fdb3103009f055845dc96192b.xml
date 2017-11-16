@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="e5e0be2fdb3103009f055845dc96192b" sys_domain="global" table="x_snc_car_reservat_car_reservation" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-20 12:39:53</sys_created_on>
+            <sys_id>0e1b7a63db7103009f055845dc96194a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_car_reservat_car_reservation" sys_domain="global" view="Default view">e5e0be2fdb3103009f055845dc96192b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-20 12:39:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_start_time</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-20 12:39:53</sys_created_on>
+            <sys_id>8e1b7a63db7103009f055845dc96194a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_car_reservat_car_reservation" sys_domain="global" view="Default view">e5e0be2fdb3103009f055845dc96192b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-20 12:39:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_end_time</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-20 12:39:53</sys_created_on>
+            <sys_id>021b7a63db7103009f055845dc96194b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_car_reservat_car_reservation" sys_domain="global" view="Default view">e5e0be2fdb3103009f055845dc96192b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-20 12:39:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_requested_for</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-20 12:39:53</sys_created_on>
+            <sys_id>821b7a63db7103009f055845dc96194b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_car_reservat_car_reservation" sys_domain="global" view="Default view">e5e0be2fdb3103009f055845dc96192b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-20 12:39:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-20 12:39:54</sys_created_on>
+            <sys_id>061b7a63db7103009f055845dc96194b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_car_reservat_car_reservation" sys_domain="global" view="Default view">e5e0be2fdb3103009f055845dc96192b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-20 12:39:54</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_snc_car_reservat_car_reservation</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-20 11:55:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e5e0be2fdb3103009f055845dc96192b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_car_reservat_car_reservation</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Car Reservations" source="x_snc_car_reservat">92b03a2fdb3103009f055845dc961968</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Car Reservations">92b03a2fdb3103009f055845dc961968</sys_scope>
+            <sys_update_name>sys_ui_section_e5e0be2fdb3103009f055845dc96192b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-20 11:55:21</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-10-20 11:54:36</sys_created_on>
+        <sys_id>2ab0ba2fdb3103009f055845dc9619ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_car_reservat_car_reservation.x_snc_car_reservat.user</sys_name>
+        <sys_package display_value="Car Reservations" source="x_snc_car_reservat">92b03a2fdb3103009f055845dc961968</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Car Reservations">92b03a2fdb3103009f055845dc961968</sys_scope>
+        <sys_security_acl display_value="x_snc_car_reservat_car_reservation">aeb0ba2fdb3103009f055845dc9619aa</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_2ab0ba2fdb3103009f055845dc9619ad</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-10-20 11:54:36</sys_updated_on>
+        <sys_user_role display_value="x_snc_car_reservat.user" name="x_snc_car_reservat.user">62b03a2fdb3103009f055845dc9619a1</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

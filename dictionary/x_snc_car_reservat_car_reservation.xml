@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" label="Car Reservation" max_length="40" name="x_snc_car_reservat_car_reservation" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element label="End Time" mandatory="true" max_length="40" name="u_end_time" type="glide_date_time"/>
+        <element label="Requester for" mandatory="true" max_length="32" name="u_requested_for" reference="sys_user" type="reference"/>
+        <element label="Start Time" mandatory="true" max_length="40" name="u_start_time" type="glide_date_time"/>
+        <index name="index">
+            <element name="u_requested_for"/>
+        </index>
+    </element>
+</database>
